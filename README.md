@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   </p>
 I am a Senior Computer Engineering student at the American University in Cairo (AUC).
 
-🌱 I’m currently learning Angular, Bash, HTML/CSS, and PHP.
 
-📫 How to reach me: muhammad-azzazy@aucegypt.edu
+- 🌱 I’m currently learning Angular, Bash, HTML/CSS, and PHP.
+- 📫 How to reach me: muhammad-azzazy@aucegypt.edu
