@@ -23,3 +23,6 @@ I am a Senior Computer Engineering student at the American University in Cairo (
 
 - 🌱 I’m currently learning Angular, Bash, HTML/CSS, and PHP.
 - 📫 How to reach me: muhammad-azzazy@aucegypt.edu
+
+
+[![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadazzazy)](https://github.com/muhammadazzazy/github-readme-stats)
