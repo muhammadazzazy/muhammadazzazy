@@ -33,7 +33,7 @@ My name is Muhammad Azzazy, a Computer Engineering Senior at the American Univer
 
 💻 My interests lie within the field of AI, Machine Learning & Data Science
 
-🎞️ I am also interested in reading murder mysteries and classics.
+📚 I am also interested in reading murder mysteries and classics.
 
 ## GitHub Stats
 
