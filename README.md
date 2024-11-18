@@ -46,7 +46,7 @@ My name is Muhammad Azzazy, a Computer Engineering Senior at the American Univer
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/muhammadazzazy/osm-valhalla-traffic-mapper">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadazzazy&repo=careem-valhalla&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Valhalla Traffic Mapper"/>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadazzazy&repo=osm-valhalla-traffic-mapper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Valhalla Traffic Mapper"/>
   </a>
   <a href="https://github.com/muhammadazzazy/SMSManager">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadazzazy&repo=SMSManager&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="SMS Manager"/>
