@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://raw.githubusercontent.com/muhammadazzazy/muhammadazzazy/main/wave.gif" width="30px">
 
-My name is Muhammad Azzazy, a Computer Engineering Senior at the American University in Cairo (AUC).
+My name is Muhammad Azzazy. I am a Computer Engineering graduate from The American University in Cairo (AUC).
 
 💻 My interests lie within the field of AI, Machine Learning & Data Science.
 
