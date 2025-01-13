@@ -33,7 +33,7 @@ My name is Muhammad Azzazy. I am a Computer Engineering graduate from The Americ
 
 💻 My interests lie within the field of AI, Machine Learning & Data Science.
 
-📚 I am also interested in reading murder mysteries and classics.
+📚 ♟️ I am also interested in playing chess and reading murder mysteries and classics.
 
 ## GitHub Stats
 
