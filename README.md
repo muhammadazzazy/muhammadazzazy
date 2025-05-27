@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://raw.githubusercontent.com/muhammadazzazy/muhammadazzazy/main/wave.gif" width="30px">
 
-My name is Muhammad Azzazy. I am a Computer Engineering graduate from The American University in Cairo (AUC).
+I'm Muhammad Azzazy, a Full-Stack Engineering Intern at PwC's Egypt Technology & Innovation Center (ETIC).
 
-💻 My interests lie within the field of AI, Machine Learning & Data Science.
+💻 I'm passionate about software development, data science, and AI.
 
-♟️ 📚 I am also interested in playing chess and reading murder mysteries and classics.
+♟️ Outside of work, I enjoy playing chess and reading—especially murder mysteries and classic literature.
 
 ## GitHub Stats
 
