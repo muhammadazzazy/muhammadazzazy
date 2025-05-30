@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # Hi there <img src="https://raw.githubusercontent.com/muhammadazzazy/muhammadazzazy/main/wave.gif" width="30px">
 
-I'm Muhammad Azzazy, a Full-Stack Engineering Intern at PwC's Egypt Technology & Innovation Center (ETIC).
+I'm Muhammad Azzazy, a Full-Stack Engineering Intern at PwC Egypt Technology & Innovation Center (ETIC).
 
 💻 I'm passionate about software development, data science, and AI.
 
