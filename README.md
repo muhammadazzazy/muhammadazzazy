@@ -50,7 +50,7 @@ I am a former Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egyp
 
 ### Employer?
 
-> <a href="https://drive.google.com/file/d/1coH9Eet8oxzcEfAtsSrIdmk7-fkBdJ4U/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1ghOoBl7Lp413UwTkWh8dFWcVWPCYPGQw/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BE5AA&height=120&section=footer" alt="footer"/>
 
