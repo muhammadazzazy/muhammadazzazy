@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BE5AA&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Software+Engineer" alt="Software Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;System+Administrator" alt="System Administrator"/>
 </a>
 
 I am a graduate in Computer Engineering from The American University in Cairo (AUC). Currently, I am a Linux System Administrator at Huawei.
