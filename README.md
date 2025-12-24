@@ -30,9 +30,9 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Software+Engineer" alt="Software Engineer"/>
 </a>
 
-I am a Computer Engineering graduate from The American University in Cairo (AUC). Currently, I am a Research Assistant in the Chemistry Department at AUC, where I developed [_FebriLogic_](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses.
+I am a graduate in Computer Engineering from The American University in Cairo (AUC). Currently, I am a Linux System Administrator at Huawei.
 
-I am a former Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egypt Technology & Innovation Center (ETIC). My efforts have been recognized by data, cloud, and frontend engineers at PwC UK, and my manager, Bharath Natarajan, has published a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) detailing the challenges we tackled. My interests include research, software engineering, automation, and data-driven optimization.
+Previously, I was a Research Assistant in the Chemistry Department at AUC, where I developed [_FebriLogic_](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses. I am a former Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egypt Technology & Innovation Center (ETIC). My efforts have been recognized by data, cloud, and frontend engineers at PwC UK, and my manager, Bharath Natarajan, has published a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) detailing the challenges we tackled. My interests include research, software engineering, automation, and data-driven optimization.
 
 ### Main skills
 
