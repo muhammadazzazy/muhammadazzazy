@@ -22,8 +22,6 @@ Here are some ideas to get you started:
     You may also want to connect with me on LinkedIn @muhammad-azzazy :))
 -->
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BE5AA&height=120&section=header" alt="header"/> -->
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Operations+Engineer" alt="Operations Engineer"/>
 </a>
@@ -51,7 +49,6 @@ Previously, I was a Research Assistant in the Chemistry Department at AUC, where
 
 [![Credly][credly-shield]][credly-url]
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BE5AA&height=120&section=footer" alt="footer"/>
 <!--
      Thanks for being my guest <3
 -->
