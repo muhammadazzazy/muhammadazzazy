@@ -58,4 +58,4 @@ Previously, I was a Research Assistant in the Chemistry Department at AUC, where
 [peerlist-shield]: https://img.shields.io/badge/Peerlist-00AA6C?style=for-the-badge&logo=peerlist&logoColor=white
 [peerlist-url]: https://peerlist.io/muhammadazzazy
 [credly-shield]: https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white
-[credly-url]: https://www.credly.com/users/muhammad-azzazy.d5a76e4b
+[credly-url]: https://www.credly.com/users/muhammadazzazy
