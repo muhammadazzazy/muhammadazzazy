@@ -32,7 +32,7 @@ Previously, I was a Research Assistant in the Chemistry Department at AUC, where
 
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,bots,selenium,fastapi,postgres,sqlite,mysql,js,nextjs,nodejs,html,css,sklearn,r,matlab,rust,androidstudio,angular,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,bots,selenium,fastapi,postgres,sqlite,mysql,js,nextjs,nodejs,html,css,sklearn,r,matlab,rust,androidstudio)](https://skillicons.dev)
 
 ### Connect with me!
 
