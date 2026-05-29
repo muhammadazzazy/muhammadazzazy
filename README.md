@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **muhammadazzazy/muhammadazzazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+    Hey there, I'm Muhammad Azzazy!
+    Happy to see you here exploring my GitHub README profile
+    Feel free to inspire!
+
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @muhammad-azzazy :))
+-->
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Full+Stack+Engineer" alt="Full Stack Engineer"/>
+</a>
+
+Full-Stack Engineer at Deloitte with a background in software engineering, research, and telecom operations.
+
+Computer Engineering graduate from The American University in Cairo (AUC). Previously worked at Huawei supporting VAS applications for Telkom South Africa. Developed [_FebriLogic_](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses. Former Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egypt Technology & Innovation Center (ETIC). Contributed to projects recognized by engineers at PwC UK, including work featured in a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) by manager Bharath Natarajan.
+
+### Main skills
+
+[![My Skills](https://skillicons.dev/icons?i=linux,py,github,git,bots,selenium,fastapi,postgres,sqlite,mysql,js,nextjs,nodejs,html,css,sklearn,r,matlab,rust,androidstudio)](https://skillicons.dev)
+
+### Connect with me!
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Peerlist][peerlist-shield]][peerlist-url]
+
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+
+> <a href="https://drive.google.com/file/d/1ghOoBl7Lp413UwTkWh8dFWcVWPCYPGQw/view?usp=sharing" download>Download my resume</a>
+
+[![Credly][credly-shield]][credly-url]
+
+<!--
+     Thanks for being my guest <3
+-->
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/muhammad-azzazy
+[peerlist-shield]: https://img.shields.io/badge/Peerlist-00AA6C?style=for-the-badge&logo=peerlist&logoColor=white
+[peerlist-url]: https://peerlist.io/muhammadazzazy
+[credly-shield]: https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white
+[credly-url]: https://www.credly.com/users/muhammadazzazy
