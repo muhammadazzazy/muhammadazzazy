@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Full+Stack+Engineer" alt="Full Stack Engineer"/>
 </a>
 
-Full-Stack Engineer at Deloitte with a background in software engineering, research, and telecom operations.
+Full-Stack Engineer at Deloitte Innovation Hub (DIH) with a background in software engineering, research, and telecom operations.
 
 Computer Engineering graduate from The American University in Cairo (AUC). Previously worked at Huawei supporting VAS applications for Telkom South Africa. Developed [_FebriLogic_](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses. Former Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egypt Technology & Innovation Center (ETIC). Contributed to projects recognized by engineers at PwC UK, including work featured in a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) by manager Bharath Natarajan.
 
