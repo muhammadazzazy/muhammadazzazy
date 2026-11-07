@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9BE5AA&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Full+Stack+Engineer" alt="Full Stack Engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=CB2957&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Full+Stack+Engineer" alt="Full Stack Engineer"/>
 </a>
 
 Full-Stack Engineer at Deloitte Innovation Hub (DIH) with a background in software engineering, research, and telecom operations.
