@@ -26,9 +26,9 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=CB2957&width=435&lines=Hello%2C+it's+Muhammad+Azzazy;Full+Stack+Engineer" alt="Full Stack Engineer"/>
 </a>
 
-Full-Stack Engineer at [Deloitte](https://deloitte.com) Innovation Hub (DIH) with a background in software engineering, research, and telecom operations.
+I am a Full-Stack Engineer at [Deloitte](https://deloitte.com) Innovation Hub (DIH) with a background in software engineering, research, and telecom operations.
 
-Computer Engineering graduate from [The American University in Cairo (AUC)](https://aucegypt.edu). Previously worked at [Huawei](https://huawei.com) supporting Value-Added Services (VAS) applications for [Telkom South Africa](https://telkom.co.za). Developed [FebriLogic](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses. Former Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egypt Technology & Innovation Center (ETIC). Contributed to projects recognized by engineers at PwC UK, including work featured in a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) by manager Bharath Natarajan.
+In January 2025, I graduated in Computer Engineering from [The American University in Cairo (AUC)](https://aucegypt.edu). Previously, I have worked at [Huawei](https://huawei.com) supporting Value-Added Services (VAS) applications for [Telkom South Africa](https://telkom.co.za). I have developed [FebriLogic](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses (AFIs). I was a Full-Stack Engineering Intern at PricewaterhouseCoopers (PwC) Egypt Technology & Innovation Center (ETIC) where I contributed to projects recognized by engineers at PwC UK, including work featured in a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) by manager [Bharath Natarajan](https://www.linkedin.com/in/bharathnatarajanuk/).
 
 ### Main skills
 
