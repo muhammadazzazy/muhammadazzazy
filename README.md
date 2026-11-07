@@ -38,6 +38,7 @@ Computer Engineering graduate from The American University in Cairo (AUC). Previ
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Peerlist][peerlist-shield]][peerlist-url]
+[![X][x-shield]][x-url]
 
 <!--
      Oh, hello there, recruiters!
@@ -45,9 +46,7 @@ Computer Engineering graduate from The American University in Cairo (AUC). Previ
 
 ### Employer?
 
-> <a href="https://drive.google.com/file/d/1ghOoBl7Lp413UwTkWh8dFWcVWPCYPGQw/view?usp=sharing" download>Download my resume</a>
-
-[![Credly][credly-shield]][credly-url]
+> <a href="https://muhammadazzazy.com/assets/docs/Muhammad_Azzazy_Resume.pdf" download>Download my resume</a>
 
 <!--
      Thanks for being my guest <3
@@ -57,5 +56,5 @@ Computer Engineering graduate from The American University in Cairo (AUC). Previ
 [linkedin-url]: https://linkedin.com/in/muhammad-azzazy
 [peerlist-shield]: https://img.shields.io/badge/Peerlist-00AA6C?style=for-the-badge&logo=peerlist&logoColor=white
 [peerlist-url]: https://peerlist.io/muhammadazzazy
-[credly-shield]: https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white
-[credly-url]: https://www.credly.com/users/muhammadazzazy
+[x-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+[x-url]: https://x.com/Muhamma28153589
