@@ -37,8 +37,8 @@ In January 2025, I graduated in Computer Engineering from [The American Universi
 ### Connect with me!
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Peerlist][peerlist-shield]][peerlist-url]
 [![X][x-shield]][x-url]
+[![Peerlist][peerlist-shield]][peerlist-url]
 
 <!--
      Oh, hello there, recruiters!
@@ -54,7 +54,7 @@ In January 2025, I graduated in Computer Engineering from [The American Universi
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/muhammad-azzazy
-[peerlist-shield]: https://img.shields.io/badge/Peerlist-00AA6C?style=for-the-badge&logo=peerlist&logoColor=white
-[peerlist-url]: https://peerlist.io/muhammadazzazy
 [x-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 [x-url]: https://x.com/Muhamma28153589
+[peerlist-shield]: https://img.shields.io/badge/Peerlist-00AA6C?style=for-the-badge&logo=peerlist&logoColor=white
+[peerlist-url]: https://peerlist.io/muhammadazzazy
