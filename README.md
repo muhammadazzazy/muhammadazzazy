@@ -30,6 +30,13 @@ I am a Full-Stack Engineer at [Deloitte](https://deloitte.com) Innovation Hub (D
 
 In January 2025, I graduated in Computer Engineering from [The American University in Cairo (AUC)](https://aucegypt.edu). I was a Full-Stack Engineering Intern at [PricewaterhouseCoopers (PwC)](https://pwc.com) Egypt Technology & Innovation Center (ETIC) where I contributed to projects recognized by engineers at PwC UK, including work featured in a [Medium article](https://medium.com/@bharathnatarajan101/genai-contract-processing-real-world-challenges-1e4396d78c20) by manager [Bharath Natarajan](https://www.linkedin.com/in/bharathnatarajanuk/). I have developed [FebriLogic](https://www.febrilogic.com), a tool that assists healthcare professionals in diagnosing patients with acute febrile illnesses (AFIs). At [Huawei](https://huawei.com), I have supported and operated Value-Added Services (VAS) applications for [Telkom South Africa](https://telkom.co.za).
 
+<a href="https://certdirectory.io/profile/muhammadazzazy?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/muhammadazzazy.svg?style=card&theme=dark">
+    <img alt="Muhammad Azzazy on CertDirectory" src="https://certdirectory.io/badge/muhammadazzazy.svg?style=card">
+  </picture>
+</a>
+
 ### Main skills
 
 [![My Skills](https://skillicons.dev/icons?i=linux,py,github,git,bots,selenium,fastapi,postgres,sqlite,mysql,js,nextjs,nodejs,html,css,sklearn,r,matlab,rust,androidstudio)](https://skillicons.dev)
